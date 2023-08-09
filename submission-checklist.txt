@@ -1,0 +1,11 @@
+UIowa Coding Exercise
+08/08/2023 at 7:07pm
+----------------------
+2. I estimate that this exercise will take me approximately 4 hours
+     The first hour will be to get comfortable with C#
+     The next 2 will be actually coding everything
+     The last hour will be debugging
+   The actually time it took was xxxx
+     Explanation
+
+3. Comments
