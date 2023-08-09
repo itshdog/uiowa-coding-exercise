@@ -1,0 +1,14 @@
+C:\Users\hayde\Desktop\Projects\coding-exercise\bin\Debug\net7.0\coding-exercise.exe
+C:\Users\hayde\Desktop\Projects\coding-exercise\bin\Debug\net7.0\coding-exercise.deps.json
+C:\Users\hayde\Desktop\Projects\coding-exercise\bin\Debug\net7.0\coding-exercise.runtimeconfig.json
+C:\Users\hayde\Desktop\Projects\coding-exercise\bin\Debug\net7.0\coding-exercise.dll
+C:\Users\hayde\Desktop\Projects\coding-exercise\bin\Debug\net7.0\coding-exercise.pdb
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.AssemblyInfoInputs.cache
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.AssemblyInfo.cs
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.csproj.CoreCompileInputs.cache
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.dll
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\refint\coding-exercise.dll
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.pdb
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\coding-exercise.genruntimeconfig.cache
+C:\Users\hayde\Desktop\Projects\coding-exercise\obj\Debug\net7.0\ref\coding-exercise.dll
