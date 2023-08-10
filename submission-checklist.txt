@@ -9,3 +9,8 @@ UIowa Coding Exercise
      Explanation
 
 3. Comments
+     I Changed the ILetterService interface to include a distinction between the path and the filename
+     This was to ease the creation of a new directory if one didn't already Exists
+     Then I appended the filename to the path to create the file as needed
+
+     
