@@ -2,13 +2,13 @@
 namespace codingExercise {
     class Program {
         static void Main(string[] args) {
-            // User input to help run exercise
+            // User input to help run the exercise
             Console.WriteLine("-------------------------------------------");
             Console.WriteLine("Running Coding Exercise by Hayden Westphal");
             string? input = "0";
             while(input != "3") {
                 Console.WriteLine("-------------------------------------------");
-                Console.Write("Press 1 to create files. Press 2 to run exercise. Press 3 to exit. ");
+                Console.Write("Press 1 to create files. Press 2 to run the exercise. Press 3 to exit. ");
                 input = Console.ReadLine();
             // Create files
             if (input == "1") {
