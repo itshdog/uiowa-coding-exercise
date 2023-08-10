@@ -1,16 +1,34 @@
 UIowa Coding Exercise
-08/08/2023 at 7:07pm
 ----------------------
 2. I estimate that this exercise will take me approximately 4 hours
      The first hour will be to get comfortable with C#
      The next 2 will be actually coding everything
      The last hour will be debugging
-   The actually time it took was xxxx
-     Explanation
+   The actually time it took was a little under 6 hours
+     I probably could have gotten something bare bones working within the 4 hours
+     However, I quickly realized I was having fun learning more about C# and lost track of time
+     The file directories took a little bit to get used to, but paid off. 
 
 3. Comments
      I Changed the ILetterService interface to include a distinction between the path and the filename
      This was to ease the creation of a new directory if one didn't already Exists
      Then I appended the filename to the path to create the file as needed
 
-     
+  a. I assumed the files given would not be very large. My combination function is not optimal for large files. 
+     I assumed all IDs are of length 8, and all files end in .txt in lieu of .pdf or others. 
+     I assumed all folders would not want to be run at once. Instead, I opted for running only current day files.
+        If any older date files are needed to be run, I would manually change the date for each or run a for loop for the ones wanted. 
+
+  b. For one, I have not worked much with C# so I had to spend some time getting used to the language.
+     My main problems were stemming from file path errors for existance or non-existance. 
+        These were solved by utilizing Directory.Exist() and File.Exist() to check for existance. 
+
+  c. I am particularly proud of the moveFolder method that includes an else if the directory exists.
+        If it exists, that means the exercise has ran already. 
+        So, individual files are moved if new entries are found. 
+        Otherwise old duplicates are deleted.
+        Then new combination files are created, and a new report is generated correctly. 
+        I was proud of this because then users can run multiple times if new entries arrive during the day.
+
+  d. Nothing else. 
+
