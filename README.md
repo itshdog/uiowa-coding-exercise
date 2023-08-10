@@ -1,7 +1,7 @@
 # uiowa-coding-exercise
 
 How to run
-- Open the folder 'coding-exercise' in terminal
+- Open the folder 'uiowa-coding-exercise' in terminal
 - type the command "dotnet run"
 - Press 1 to create files. Press 2 to run the exercise. Press 3 to exit. 
 
